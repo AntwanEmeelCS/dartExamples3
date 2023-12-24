@@ -84,3 +84,10 @@ git commit -m "Branch Commit Message"
 git push -u origin [BranchName]
 git push -u origin branch1
 ~~~~
+
+4. merging changes (move to destination branch first)
+
+~~~~
+git checkout master
+git merge branch1
+~~~~
