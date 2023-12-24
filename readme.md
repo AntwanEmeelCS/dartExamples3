@@ -66,11 +66,12 @@ git push -u origin master
 1. Create a branch
 
 ~~~~
-
+git branch [BranchName]
 ~~~~
 
-2. Move from current branch to another
+2. Move from current branch to another (note branch name change on your status bar after using ths command)
 
 ~~~~
-
+git checkout [BranchName]
+git checkout branch1
 ~~~~
