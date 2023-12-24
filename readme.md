@@ -51,7 +51,7 @@ git commit -m "Your message should imply your changes done"
 8. Create a repo online on your github Account, copy its https link and use the following command to add a remote origin, this is needed once.
 
 ~~~~ 
-git remote add origin [link](https://github.com/AntwanEmeelCS/dartExamples3.git) 
+git remote add origin https://github.com/AntwanEmeelCS/dartExamples3.git
 ~~~~
 
 9. Push your changes to your onlinr repo
