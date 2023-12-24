@@ -91,3 +91,12 @@ git push -u origin branch1
 git checkout master
 git merge branch1
 ~~~~
+
+5. If conflicts happen, resolve them with VS Code.
+
+6. Delete old branch if it's no longer needed
+
+~~~~
+git branch -d [branchName]
+git branch -d branch1
+~~~~
