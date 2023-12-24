@@ -89,3 +89,9 @@ git commit -m "Branch Commit Message"
 git push -u origin [BranchName]
 git push -u origin branch1
 ~~~~
+
+4. merging changes
+
+~~~~
+
+~~~~
