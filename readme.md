@@ -75,11 +75,6 @@ git branch [BranchName]
 2. Move from current branch to another (note branch name change on your status bar after using ths command)
 
 ~~~~
-git checkout [BranchName]
-git checkout branch1
-~~~~
-
-3. Update Branch with same method
 
 ~~~~
 git status
@@ -88,11 +83,4 @@ git commit -m "Branch Commit Message"
 
 git push -u origin [BranchName]
 git push -u origin branch1
-~~~~
-
-4. merging changes (move to destination branch, i.e. mater in our case)
-
-~~~~
-git checkout master
-git merge branch1
 ~~~~
