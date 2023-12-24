@@ -97,9 +97,16 @@ git merge branch1
 
 5. If conflicts happen, resolve them with VS Code.
 
-6. Delete old branch if it's no longer needed
+6. Delete old branch if it's no longer needed (local work)
 
 ~~~~
 git branch -d [branchName]
 git branch -d branch1
+~~~~
+
+7. Delete old branch (online repo)
+
+~~~~
+git push origin --delete [branchName]
+git push origin --delete Branch1
 ~~~~
