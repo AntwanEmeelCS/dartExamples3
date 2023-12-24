@@ -75,7 +75,10 @@ git branch [BranchName]
 2. Move from current branch to another (note branch name change on your status bar after using ths command)
 
 ~~~~
+git checkout [branchName]
+~~~~
 
+3. commit changes to branch as following
 ~~~~
 git status
 git add .
