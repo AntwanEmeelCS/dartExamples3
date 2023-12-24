@@ -54,7 +54,7 @@ git commit -m "Your message should imply your changes done"
 git remote add origin https://github.com/AntwanEmeelCS/dartExamples3.git
 ~~~~
 
-9. Push your changes to your onlinr repo
+9. Push your changes to your online repo
 
 ~~~~ 
 git push -u origin master 
@@ -74,4 +74,15 @@ git branch [BranchName]
 ~~~~
 git checkout [BranchName]
 git checkout branch1
+~~~~
+
+3. Update Branch with same method
+
+~~~~
+git status
+git add .
+git commit -m "Branch Commit Message"
+
+git push -u origin [BranchName]
+git push -u origin branch1
 ~~~~
