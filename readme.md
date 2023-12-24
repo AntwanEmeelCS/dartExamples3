@@ -1,5 +1,7 @@
 # My New Repo
 
+## Connect to a repo with VS Code
+
 This repo is created with the help of ChatGPT
 
 1. First Create and Open Your new project folder
@@ -58,3 +60,5 @@ git remote add origin [link]https://github.com/AntwanEmeelCS/dartExamples3.git
 git push -u origin master 
 ~~~~
 
+----------------------------------------------------------------------------
+## Branching Work
