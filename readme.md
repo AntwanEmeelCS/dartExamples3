@@ -110,3 +110,9 @@ git branch -d branch1
 git push origin --delete [branchName]
 git push origin --delete Branch1
 ~~~~
+----------------------------------------------------------------------------------
+## Pulling Changes To Your Local Repo
+
+~~~~
+git pull origin master
+~~~~
