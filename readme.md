@@ -111,7 +111,9 @@ git push origin --delete [branchName]
 git push origin --delete Branch1
 ~~~~
 ----------------------------------------------------------------------------------
-## Pulling Changes To Your Local Repo
+## Pulling Changes From Remote To Your Local Repo
+
+### Always refresh your local as your partners may update the repo
 
 ~~~~
 git pull origin master
